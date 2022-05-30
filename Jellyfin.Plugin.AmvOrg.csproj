@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Jellyfin.Plugin.AmvOrg</AssemblyName>
+        <RootNamespace>Jellyfin.Plugin.AmvOrg</RootNamespace>
+        <Company>Jellyfin.Plugin.AmvOrg</Company>
+        <Product>Jellyfin.Plugin.AmvOrg</Product>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="HtmlAgilityPack" Version="1.11.42" />
+      <PackageReference Include="Jellyfin.Controller" Version="10.7.7" />
+      <PackageReference Include="Jellyfin.Model" Version="10.7.7" />
+      <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
+    </ItemGroup>
+
+</Project>

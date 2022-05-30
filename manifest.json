@@ -1,0 +1,12 @@
+﻿[
+  {
+    "category": "Metadata",
+    "guid": "19ca3670-f6fe-455a-bd6a-2d99cfe377f8",
+    "name": "AmvOrg",
+    "description": "Anime music video metadata provider. Data from animemusicvideos.org",
+    "owner": "SubZeroPL",
+    "overview": "Anime music video metadata provider. Data from animemusicvideos.org",
+    "versions": [
+    ]
+  }
+]

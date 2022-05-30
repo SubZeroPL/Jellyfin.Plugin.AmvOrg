@@ -1,0 +1,16 @@
+---
+name: "AmvOrg"
+guid: "19ca3670-f6fe-455a-bd6a-2d99cfe377f8"
+version: "1.0.0.0"
+targetAbi: "10.7.7.0"
+framework: "net5.0"
+owner: "SubZeroPL"
+overview: "Anime music video metadata provider. Data from animemusicvideos.org"
+description: >
+  Anime music video metadata provider. Data from animemusicvideos.org
+
+category: "Metadata"
+artifacts:
+  - "Jellyfin.Plugin.AmvOrg.dll"
+changelog: |-
+  Initial release
