@@ -7,6 +7,14 @@
     "owner": "SubZeroPL",
     "overview": "Anime music video metadata provider. Data from animemusicvideos.org",
     "versions": [
+      {
+        "checksum": "",
+        "changelog": "build for jf 10.8/.net6.0",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "",
+        "timestamp": "2022-07-07T00:00:00.0000000Z",
+        "version": "0.1.0.0"
+      }
     ]
   }
 ]

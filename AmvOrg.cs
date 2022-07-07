@@ -26,7 +26,7 @@ namespace Jellyfin.Plugin.AMVOrg
 
         public override PluginInfo GetPluginInfo()
         {
-            return new PluginInfo(AmvOrgConstants.Name, new Version(0, 0, 1, 2), "AMV metadata provider", Id, true);
+            return new PluginInfo(AmvOrgConstants.Name, new Version(0, 1, 0, 0), "AMV metadata provider", Id, true);
         }
     }
 }

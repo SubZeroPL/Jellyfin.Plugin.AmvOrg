@@ -1,14 +1,14 @@
 {
   "category": "Metadata",
-  "changelog": "first version",
+  "changelog": "build for jf 10.8/.net6.0",
   "description": "Anime music video metadata provider. Data from animemusicvideos.org",
   "guid": "19ca3670-f6fe-455a-bd6a-2d99cfe377f8",
   "name": "AmvOrg",
   "overview": "Anime music video metadata provider. Data from animemusicvideos.org",
   "owner": "SubZeroPL",
-  "targetAbi": "10.7.7.0",
+  "targetAbi": "10.8.0.0",
   "timestamp": "2022-05-30T00:00:00.0000000Z",
-  "version": "1.0.0.0",
+  "version": "0.1.0.0",
   "status": "Active",
   "autoUpdate": true
 }
